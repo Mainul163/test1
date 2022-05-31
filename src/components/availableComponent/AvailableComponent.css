@@ -1,0 +1,27 @@
+.roundedDiv{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px; 
+    border: 1px solid whitesmoke;
+    text-align: center;
+    padding: 70px 0;
+    background-color:rgb(185, 185, 185)
+}
+.iconStyle{
+    font-size: 50px;
+    color:blue;
+}
+.textdiv{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px; 
+   
+    text-align: center;
+   
+   
+}
+.avaiableBtn{
+    font-weight: bold;
+    background-color:#644F9C;
+    color:aliceblue
+}

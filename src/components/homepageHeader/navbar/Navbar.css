@@ -1,0 +1,70 @@
+.navbar-light .navbar-nav .nav-item .nav-link {
+
+    color:#644f9C;
+  
+  }
+  
+  nav ul li a:active {
+    color:orange !important
+   
+   
+}
+.rightDiv{
+
+  border: 1px solid white;
+  border-radius: 15px;
+
+  width: 15%;
+  -moz-box-shadow: 0 0 5px #888;
+-webkit-box-shadow: 0 0 5px#888;
+box-shadow: 0 0 5px #888;
+  
+}
+.singupBtn{
+  background-color: #FF6F00 !important;
+  color:white !important;
+
+ 
+}
+
+@media only screen and (min-width: 375px) and (max-width: 814px) {
+  .rightDiv{
+
+    border: 1px solid white;
+    border-radius: 15px;
+  width: 30%;
+    
+    -moz-box-shadow: 0 0 5px #888;
+  -webkit-box-shadow: 0 0 5px#888;
+  box-shadow: 0 0 5px #888;
+    
+  }
+  .singupBtn{
+    background-color: #FF6F00 !important;
+    color:white !important;
+  
+   margin-top: 10px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .rightDiv{
+
+    border: 1px solid white;
+    border-radius: 15px;
+  width: 15%;
+    
+    -moz-box-shadow: 0 0 5px #888;
+  -webkit-box-shadow: 0 0 5px#888;
+  box-shadow: 0 0 5px #888;
+    
+  }
+  .singupBtn{
+    background-color: #FF6F00 !important;
+    color:white !important;
+  margin-left: 12px;
+   margin-top: 10px;
+  }
+  .loginBtn{
+    margin-left: 14px;
+  }
+}
